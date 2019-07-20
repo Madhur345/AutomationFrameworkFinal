@@ -1,0 +1,2 @@
+15:18:10.031 [TestNG-tests-1] INFO  scripts.TestInvalidLogin - Error Message is Displayed true
+15:18:10.058 [TestNG-tests-1] INFO  scripts.TestInvalidLogin - Username or Password is invalid. Please try again.

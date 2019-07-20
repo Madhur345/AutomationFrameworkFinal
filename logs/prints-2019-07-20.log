@@ -1,0 +1,6 @@
+15:18:02.546 [TestNG-tests-1] DEBUG scripts.TestInvalidLogin - Checking if error message is dispalyed
+15:18:02.594 [TestNG-tests-1] INFO  scripts.TestInvalidLogin - Error Message is Displayed true
+15:18:02.610 [TestNG-tests-1] INFO  scripts.TestInvalidLogin - Username or Password is invalid. Please try again.
+15:18:02.610 [TestNG-tests-1] DEBUG scripts.TestInvalidLogin - Fetching details for username
+15:18:02.628 [TestNG-tests-1] INFO  scripts.TestInvalidLogin - username fetched
+15:18:09.983 [TestNG-tests-1] DEBUG scripts.TestInvalidLogin - Checking if error message is dispalyed
