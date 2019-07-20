@@ -23,7 +23,7 @@ public class BaseTest implements IAutoConstant{
 	@BeforeMethod
 	@Parameters("browser")
 	public  void openApplication(String browser){
-		if(browser.equalsIgnoreCase("firefox"))
+		if(browser.equals("firefox"))
 		{
 			FirefoxProfile profile = new FirefoxProfile();
 			profile.setPreference("geo.enabled", false);
